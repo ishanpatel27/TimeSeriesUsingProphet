@@ -15,5 +15,7 @@ It is only if the project is used from Google Colab.
 Steps to Run the Notebook .
 
 1. Upload the time.csv file to the navigator.
+
 2.upload the ipynb file to the navigator.
+
 3. run all the cells
