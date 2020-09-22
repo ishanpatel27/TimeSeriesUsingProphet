@@ -5,11 +5,11 @@ Time Series Forecasting Using Prophet
 ** If the Project is been used from Jupiter Notebook(Anaconda) do not use the second cell ***
 
 It is only if the project is used from Google Colab. 
-That is : 
-**from google.colab import files
-uploaded = files.upload()
 
-# Do not run this cell if the file is been used in Jupiter Notebook ***
+# Do not run this cell if the file is been used in Jupiter Notebook 
+#That is : 
+# from google.colab import files
+# uploaded = files.upload()
 
 
 Steps to Run the Notebook .
